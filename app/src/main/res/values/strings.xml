@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ServicesEx</string>
+    <string name="message_service_running">Sound is played</string>
+</resources>
